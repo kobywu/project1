@@ -1,0 +1,20 @@
+.teapot{
+	background-image: url("Teapot.jpg");
+	width: 370px;
+	height:480px;
+	position:absolute;
+	left: 800px;
+	top: 230px;
+}
+body {
+	background-image: url("wood.jpg");
+}
+.words {
+	background-color:#0ea683; 
+	width: 150px;
+	height: 100px;
+	-webkit-transform: skew(20deg);
+	-moz-transform: skew(20deg);
+	-o-transform: skew(20deg);
+		font-size:30px;
+}
