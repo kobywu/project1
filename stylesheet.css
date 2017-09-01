@@ -1,18 +1,43 @@
 .teapot{
 	background-image: url("Teapot.JPG");
-	width: 370px;
-	height:480px;
-	position:absolute;
+	width:370px;
+	height:500px;
+	 display: flex;
+  align-items: center;
 }
 body {
 	background-image: url("wood.jpg");
 }
+
+.jumbotron {
+	background-color:transparent !important;
+}
+.hey {
+	background-color:#B57EDC; 
+}
+.zen {
+	background-color:#0ea683;
+}
+.relax {
+	background-color:#a4482c;
+}
+.description {
+	width: 200px;
+	height: 100px;
+	-webkit-transform: skew(-20deg);
+	-moz-transform: skew(-20deg);
+	-o-transform: skew(-20deg);
+		font-size:40px;
+		color:black;
+		font-family: Dancing Script;
+}
 .words {
-	background-color:#0ea683; 
-	width: 150px;
+	width: 200px;
 	height: 100px;
 	-webkit-transform: skew(20deg);
 	-moz-transform: skew(20deg);
 	-o-transform: skew(20deg);
-		font-size:30px;
+		font-size:40px;
+		color:black;
+		font-family:Dancing Script;
 }
