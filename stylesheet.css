@@ -30,6 +30,7 @@ body {
 		font-size:40px;
 		color:black;
 		font-family: Dancing Script;
+	display:inline;
 }
 .words {
 	width: 200px;
