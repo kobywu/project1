@@ -1,9 +1,9 @@
    .tea {
     background-color:#A0522D;
-    height:50%;
+    height:50vh;
     display: block;
     margin: auto;
-    width: 50%;
+    width: 50vw;
 }
 body {
 background-color:#FCFBE3;
