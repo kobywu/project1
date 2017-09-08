@@ -3,10 +3,12 @@
     height:50vh;
     display: block;
     margin: auto;
-    width: 50vw;	 
+    width: 50vw;
+	   
 }
 body {
 background-color:#FCFBE3;
+	font-family:Dancing Script;
 }
 
 .bottom,.top {
