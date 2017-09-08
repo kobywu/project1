@@ -40,7 +40,7 @@ left:95%;
 position:relative;
 }
 .image {
-	background-color:black;
+	background-image:url ("Teapot.JPG");
 	height:500px;
     display: block;
     margin: auto;
