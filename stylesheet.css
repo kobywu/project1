@@ -43,7 +43,7 @@ position:relative;
 background-color:#0ea683;
 }
 .image {
-	background-image:url ("Teapot.JPG");
+	background-image: url ("Teapot.JPG");
 	height:500px;
     display: block;
     margin: auto;
