@@ -14,23 +14,23 @@ display:flex;
 text-align:center;
 }
 .zen {
-	width: 42vh;
+	width: 30vh;
 	height: 100px;
 	-webkit-transform: skew(20deg);
 	-moz-transform: skew(20deg);
 	-o-transform: skew(20deg);
-		font-size:40px;
+		font-size:30px;
 		color:black;
 		font-family:Dancing Script;
         background-color:blue;      
 }
 .word {
-	width: 42vh;
+	width: 30vh;
 	height: 100px;
 	-webkit-transform: skew(-20deg);
 	-moz-transform: skew(-20deg);
 	-o-transform: skew(-20deg);
-		font-size:40px;
+		font-size:30px;
 		color:black;
 		font-family:Dancing Script;
         background-color:blue;
