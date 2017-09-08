@@ -49,3 +49,6 @@ background-color:#0ea683;
     margin: auto;
     width: 350px;
 }
+body {
+background-image: url ("wood.jpg");
+}
