@@ -9,6 +9,7 @@
 body {
 background-color:#FCFBE3;
 	font-family:Dancing Script;
+	font-size:30px;
 }
 
 .bottom,.top {
@@ -21,9 +22,7 @@ text-align:center;
 	-webkit-transform: skew(20deg);
 	-moz-transform: skew(20deg);
 	-o-transform: skew(20deg);
-		font-size:30px;
 		color:black;
-		font-family:Dancing Script;
         background-color:blue;      
 }
 .word {
@@ -32,12 +31,8 @@ text-align:center;
 	-webkit-transform: skew(-20deg);
 	-moz-transform: skew(-20deg);
 	-o-transform: skew(-20deg);
-		font-size:30px;
 		color:black;
-		font-family:Dancing Script;
-        background-color:blue;
-      
-        
+        background-color:blue;       
 }
 
 .yellow {
