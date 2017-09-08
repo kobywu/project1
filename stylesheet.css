@@ -1,12 +1,12 @@
    .tea {
-    background-image: url ("Teapot.JPG");
+    background-color:#A0522D;
     height:500px;
     display: block;
     margin: auto;
     width: 350px;
 }
 body {
-background-image: url ("wood.jpg");
+background-color:#FCFBE3;
 }
 
 .bottom,.top {
