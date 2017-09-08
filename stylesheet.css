@@ -1,39 +1,9 @@
-.teapot{
-	background-image: url("Teapot.JPG");
-	width:370px;
-	height:500px;
-	 display: flex;
-  align-items: center;
-}
-body {
-	background-image: url("wood.jpg");
-}
-
-.jumbotron {
-	background-color:transparent !important;
-}
-.hey {
-	background-color:#B57EDC; 
+.bottom,.top {
+display:flex;
+text-align:center;
 }
 .zen {
-	background-color:#0ea683;
-}
-.relax {
-	background-color:#a4482c;
-}
-.description {
-	width: 200px;
-	height: 100px;
-	-webkit-transform: skew(-20deg);
-	-moz-transform: skew(-20deg);
-	-o-transform: skew(-20deg);
-		font-size:40px;
-		color:black;
-		font-family: Dancing Script;
-	display:inline;
-}
-.words {
-	width: 200px;
+	width: 42vh;
 	height: 100px;
 	-webkit-transform: skew(20deg);
 	-moz-transform: skew(20deg);
@@ -41,7 +11,38 @@ body {
 		font-size:40px;
 		color:black;
 		font-family:Dancing Script;
+        background-color:blue;      
 }
-.top {
-display: inline;
+.word {
+	width: 42vh;
+	height: 100px;
+	-webkit-transform: skew(-20deg);
+	-moz-transform: skew(-20deg);
+	-o-transform: skew(-20deg);
+		font-size:40px;
+		color:black;
+		font-family:Dancing Script;
+        background-color:blue;
+      
+        
+}
+
+.yellow {
+left:5%;
+position:relative;
+}
+.red {
+left:45%;
+position:relative;
+}
+.blue {
+left:95%;
+position:relative;
+}
+.image {
+	background-color:black;
+	height:500px;
+    display: block;
+    margin: auto;
+    width: 350px;
 }
