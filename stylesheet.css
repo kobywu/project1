@@ -1,6 +1,6 @@
-   .image {
-	background-image: url ("Teapot.JPG");
-	height:500px;
+   .tea {
+    background-image: url ("Teapot.JPG");
+    height:500px;
     display: block;
     margin: auto;
     width: 350px;
