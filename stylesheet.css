@@ -1,4 +1,4 @@
-.bottom,.top {
+    .bottom,.top {
 display:flex;
 text-align:center;
 }
@@ -30,14 +30,17 @@ text-align:center;
 .yellow {
 left:5%;
 position:relative;
+background-color:#B57EDC; 
 }
 .red {
 left:45%;
 position:relative;
+background-color:#a4482c;
 }
 .blue {
 left:95%;
 position:relative;
+background-color:#0ea683;
 }
 .image {
 	background-image:url ("Teapot.JPG");
