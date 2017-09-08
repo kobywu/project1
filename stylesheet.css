@@ -1,4 +1,15 @@
-    .bottom,.top {
+   .image {
+	background-image: url ("Teapot.JPG");
+	height:500px;
+    display: block;
+    margin: auto;
+    width: 350px;
+}
+body {
+background-image: url ("wood.jpg");
+}
+
+.bottom,.top {
 display:flex;
 text-align:center;
 }
@@ -41,14 +52,4 @@ background-color:#a4482c;
 left:95%;
 position:relative;
 background-color:#0ea683;
-}
-.image {
-	background-image: url ("Teapot.JPG");
-	height:500px;
-    display: block;
-    margin: auto;
-    width: 350px;
-}
-body {
-background-image: url ("wood.jpg");
 }
