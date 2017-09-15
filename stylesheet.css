@@ -16,7 +16,6 @@ body {
 	text-align:center;
 }
 .zen {
-	width: 30vh;
 	height: 100px;
 	-webkit-transform: skew(20deg);
 	-moz-transform: skew(20deg);
@@ -25,7 +24,6 @@ body {
         background-color:blue;      
 }
 .word {
-	width: 30vh;
 	height: 100px;
 	-webkit-transform: skew(-20deg);
 	-moz-transform: skew(-20deg);
@@ -53,14 +51,23 @@ body {
 	body {
 	background-color:#FCFBE3;
 	}
+	.zen, .word {
+	width: 30vh;
+	}
 }
 @media only screen and (min-width: 400px) and (max-width:699px){
 	body {
 	background-color:#a4482c;
 	} 
+	.zen, .word {
+	width: 20vh;
+	}
 }
 @media only screen and (min-width: 100px) and (max-width:399px){
 	body {
 	background-color:#B57EDC; 
+	}
+	.zen, .word {
+	width: 10vh;
 	}
 }
