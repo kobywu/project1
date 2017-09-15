@@ -1,20 +1,20 @@
-   .tea {
-    background-color:#A0522D;
-    height:50vh;
-    display: block;
-    margin: auto;
-    width: 50vw;
+.tea {
+    	background-color:#A0522D;
+   	height:50vh;
+    	display: block;
+    	margin: auto;
+    	width: 50vw;
 	   
 }
 body {
-background-color:#FCFBE3;
+	background-color:#FCFBE3;
 	font-family:Dancing Script;
 	font-size:30px;
 }
 
 .bottom,.top {
-display:flex;
-text-align:center;
+	display:flex;
+	text-align:center;
 }
 .zen {
 	width: 30vh;
@@ -22,7 +22,7 @@ text-align:center;
 	-webkit-transform: skew(20deg);
 	-moz-transform: skew(20deg);
 	-o-transform: skew(20deg);
-		color:black;
+	color:black;
         background-color:blue;      
 }
 .word {
@@ -31,7 +31,7 @@ text-align:center;
 	-webkit-transform: skew(-20deg);
 	-moz-transform: skew(-20deg);
 	-o-transform: skew(-20deg);
-		color:black;
+	color:black;
         background-color:blue;       
 }
 
