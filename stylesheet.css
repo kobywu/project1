@@ -25,7 +25,7 @@ body {
 	-o-transform: skew(20deg);
 	color:black;
         background-color:blue; 
-	width:30vw;
+	width:20vw;
 }
 .word {
 	height: 100px;
@@ -34,7 +34,7 @@ body {
 	-o-transform: skew(-20deg);
 	color:black;
         background-color:blue;
-	width:30vw;
+	width:20vw;
 }
 
 .yellow {
